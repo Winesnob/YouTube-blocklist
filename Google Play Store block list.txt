@@ -1,0 +1,7 @@
+##Google Play Store block list
+(\.|^)play\.google\.com$	
+voledevice-pa.googleapis.com	
+rr1---sn-bvvbaxivnuxqjvm-vg4e.gvt1.com	
+play.googleapis.com	
+play-apps-features.googleusercontent.com	
+lh3.googleusercontent.com
